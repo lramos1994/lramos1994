@@ -1,12 +1,3 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  GitHub Profile README                                            │
-  │  → Create a PUBLIC repo named exactly:  lramos1994               │
-  │  → Add this file as README.md at its root                        │
-  │  → It renders automatically at github.com/lramos1994             │
-  └─────────────────────────────────────────────────────────────────┘
--->
-
 <h1 align="center">Hi, I'm Lucas Ramos 👋</h1>
 
 <p align="center">
@@ -69,11 +60,13 @@ and shipping.
 | **Payments re-platform** (XP / Spiti) | Moved subscriptions & payments **WordPress → Python**, kept WP as CMS only | Python · WordPress |
 | **Telegram automation bot** | Synced channel access with subscription status; auto-removed cancelled users | PHP · Bot API |
 
-### 📊 GitHub Stats
+> 💡 Most of my strongest work lives in **private / proprietary** codebases (fintech). Happy to walk through architecture and decisions on a call.
+
+---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lramos1994&show_icons=true&hide_border=true&title_color=1F4E79&icon_color=4DA3FF" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos1994&layout=compact&hide_border=true&title_color=1F4E79" alt="top langs">
+  <b>Open to Senior Full-Stack / Tech Lead remote opportunities — let's talk.</b>
+  <br>
+  <a href="https://www.linkedin.com/in/lramos-dev">LinkedIn</a> ·
+  <a href="mailto:lucas_ramos1994@hotmail.com">Email</a>
 </p>
-
-<p align="center"><i>Open to Senior Full-Stack / Tech Lead remote opportunities — let's talk.</i></p>

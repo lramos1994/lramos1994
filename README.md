@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasramos-48b03671">
+  <a href="https://www.linkedin.com/in/lramos-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:lucas_ramos1994@hotmail.com">

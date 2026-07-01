@@ -27,7 +27,7 @@ run **post-acquisition (M&A) system integrations**, and built **portfolio-risk a
 a firm with **US$200M+ in assets under custody**. I care about quality, security, scalability —
 and shipping.
 
-- 🔭 Currently: Senior Full-Stack Developer @ Studio Visual (high-performance web at scale)
+- 🔭 Available now for my next role — most recently Senior Full-Stack Developer @ Studio Visual (high-performance web at scale)
 - 🏦 Domain: fintech, investments, subscriptions & payments, system integration
 - ⚡ Obsessed with performance — I hold a **90+ PageSpeed / Core Web Vitals** bar on every project
 - 🤖 Building with AI-assisted / agentic coding workflows
